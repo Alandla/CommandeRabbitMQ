@@ -1,0 +1,26 @@
+{
+  "name": "node-express-api-sample",
+  "version": "1.0.0",
+  "description": "A simple node js api sample project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayedB/node-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayedB/node-express-api/issues"
+  },
+  "homepage": "https://github.com/RayedB/node-express-api#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "mongodb": "^4.13.0",
+    "standard": "^17.0.0"
+  }
+}
